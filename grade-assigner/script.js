@@ -23,6 +23,7 @@
 // }
 
 
+
 // Generate inital random number (0-100) to use in assignedScore() function
 let random = Math.floor(Math.random() * 101)
 
